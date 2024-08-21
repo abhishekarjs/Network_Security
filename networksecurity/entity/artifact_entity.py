@@ -13,9 +13,6 @@ class DataValidationArtifact:
 class DataTransformationArtifact:
     pass
 
-@dataclass
-class ModelTrainerArtifact:
-    pass
 
 @dataclass
 class ModelEvaluationArtifact:
@@ -23,4 +20,8 @@ class ModelEvaluationArtifact:
 
 @dataclass
 class ModelPusherArtifact:
+    pass
+
+@dataclass
+class ModelTrainerArtifact:
     pass

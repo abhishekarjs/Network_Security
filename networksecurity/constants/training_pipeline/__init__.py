@@ -8,7 +8,7 @@ import numpy as np
 """
     
 TARGET_COLUMN = "Result"
-PIPELINE_NAME: str = "NetworkSecurity"
+PIPELINE_NAME: str = "NetworkSec"
 ARTIFACT_DIR: str = "Artifacts"
 FILE_NAME: str = "Networkdata.csv"
 TRAIN_FILE_NAME: str = "train.csv"
